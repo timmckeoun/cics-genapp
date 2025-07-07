@@ -13,7 +13,7 @@
        PROGRAM-ID. LGACDB01.
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
-      *t
+      *Tim is cool
        DATA DIVISION.
 
        WORKING-STORAGE SECTION.
