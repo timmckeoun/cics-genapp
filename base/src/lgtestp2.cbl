@@ -4,7 +4,7 @@
       *                                                                *
       *                Endowment Policy Menu                           *
       *                                                                *
-      * Menu for Endowment Policy Transactions                         *
+      * Menu for Endowment Policy Transactions  BAGUETTE IS DELICIOUS  *
       *                                                                *
       ******************************************************************
        IDENTIFICATION DIVISION.
